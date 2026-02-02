@@ -1,0 +1,105 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.env
+.env.local
+.venv/
+venv/
+env/
+ENV/
+
+# =====================
+# Jupyter / Research
+# =====================
+.ipynb_checkpoints/
+*.ipynb
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =====================
+# Data Files (Large)
+# =====================
+backend/data/
+backend/models/
+data/audio/
+data/video/
+data/results/
+*.wav
+*.mp4
+*.avi
+*.webm
+
+# =====================
+# Models (Large Files)
+# =====================
+backend/models/inference/*.pt
+backend/models/inference/*.onnx
+*.pt
+*.onnx
+*.pth
+*.h5
+*.pkl
+
+# =====================
+# Node.js / Frontend
+# =====================
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+.npm
+.yarn
+
+# =====================
+# Environment
+# =====================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =====================
+# Logs
+# =====================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# =====================
+# Testing
+# =====================
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =====================
+# Agent/Gemini
+# =====================
+.agent/
+.gemini/

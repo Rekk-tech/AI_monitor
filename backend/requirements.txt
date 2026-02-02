@@ -1,0 +1,32 @@
+# FastAPI Backend
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Streamlit Dashboard
+streamlit==1.30.0
+requests==2.31.0
+
+# Deep Learning & Computer Vision
+torch==2.1.2
+torchvision==0.16.2
+ultralytics==8.1.0
+opencv-python==4.9.0.80
+pillow==10.2.0
+onnxruntime==1.16.3
+
+# Audio Processing
+sounddevice==0.4.6
+scipy==1.11.4
+numpy==1.26.3
+librosa==0.10.1
+soundfile==0.12.1
+
+# NLP & Speech (for audio emotion)
+transformers==4.37.0
+tokenizers==0.15.0
+
+# Utilities
+pyyaml==6.0.1
+python-dateutil==2.8.2
