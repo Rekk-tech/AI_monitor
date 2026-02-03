@@ -120,3 +120,6 @@ NEXT_PUBLIC_WS_URL=ws://localhost:8000
 ## 📝 License
 
 MIT License
+
+# Link Drive Model Training
+https://drive.google.com/drive/folders/1tbwT93VHcCXoH5MZdGvGY27A8EB2Xgrc?usp=sharing
